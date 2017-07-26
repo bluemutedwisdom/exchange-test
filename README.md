@@ -8,3 +8,4 @@ This text will be highlighted on Icinga Exchange, use some beautiful Markdown re
 
 - [Icinga Exchange](https://exchange.icinga.com)
 - [Icinga Docs](https://www.icinga.com/docs/)
+- [Icinga Demo](https://www.icinga.com/products/demo/)
